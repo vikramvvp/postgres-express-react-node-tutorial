@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "vp",
+    "password": "t3mppgpwd",
+    "database": "tools-dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "t3mppgpwd",
+    "database": "tools-dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "t3mppgpwd",
+    "database": "tools-dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
